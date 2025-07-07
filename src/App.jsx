@@ -12,6 +12,7 @@ function App() {
 
   return (
     <>
+{/*      <div>
 {/*        <a href="https://react.dev" target="_blank" >
           <img src={icon} className="logo" alt="Wather logo" />
         </a> */}
