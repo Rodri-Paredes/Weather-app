@@ -1,0 +1,23 @@
+.conditions-grid {
+}
+
+.condition-card {
+background-color: rgba(45, 51, 64, 0.5); /* 50% opaco */
+    width: 162px;
+    height: 162px;
+  border-radius: 14px;
+  padding: 16px;
+
+}
+
+.condition-label {
+  font-size: 14px;
+  opacity: 0.8;
+  margin-bottom: 6px;
+}
+
+.condition-value {
+  font-size: 22px;
+  font-weight: bold;
+    opacity: 1;
+}

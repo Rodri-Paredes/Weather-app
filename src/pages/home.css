@@ -1,0 +1,25 @@
+.weather-header {
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.weather-header h1 {
+  font-size: 28px;
+}
+
+.weather-header .temp {
+  font-size: 64px;
+  font-weight: 700;
+}
+
+.hourly-forecast {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.conditions-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}

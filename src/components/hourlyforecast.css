@@ -1,0 +1,35 @@
+.hourly-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 16px 12px;
+  margin-top: 20px;
+  overflow-x: auto;
+}
+
+.hourly-box {
+
+  border-radius: 12px;
+  padding: 12px 10px;
+  text-align: center;
+  min-width: 60px;
+  color: white;
+
+}
+
+.hour {
+  font-size: 14px;
+  margin-bottom: 4px;
+  display: block;
+}
+
+.hourly-icon {
+  width: 40px;
+  height: 40px;
+  margin-bottom: 4px;
+}
+
+.temp {
+  font-size: 16px;
+  font-weight: bold;
+}

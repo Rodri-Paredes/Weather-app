@@ -1,0 +1,47 @@
+.city-selector-container {
+  padding: 24px;
+
+}
+
+.city-selector-title {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 24px;
+}
+
+.city-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.city-card {
+background-color: rgba(45, 51, 64, 0.5);
+
+  border-radius: 16px;
+  padding: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+
+}
+
+
+.city-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.city-info p {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+
+
+.city-temp {
+  font-size: 22px;
+  font-weight: bold;
+  text-align: right;
+}
